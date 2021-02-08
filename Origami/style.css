@@ -1,0 +1,115 @@
+.head{
+      
+    background-color:#19acd1;
+    border:solid;
+     }
+  
+  .grid {
+    background: black;
+    background-color: #2c0ce0;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    text-align: left;
+    flex-wrap: wrap;
+  }
+  .grid img{
+    border:2px solid #ff0000;
+    border-radius: 50px;
+  }
+  
+  .camel {
+    border: 1px solid black;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 200px;
+    height: 500px;
+    padding: 50px;
+    background-color:#16dfb3;
+  }
+  
+  
+  .chameleon {
+    border: 1px solid black;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 200px;
+    height: 500px;
+    padding: 50px;
+    background-color:#16dfb3;
+  }
+  
+  .cicada {
+    border: 1px solid black;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 200px;
+    height: 400px;
+    padding: 50px;
+    background-color:#16dfb3;
+  }
+  
+  .panda {
+    border: 1px solid black;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 200px;
+    height: 400px;
+    padding: 50px;
+    background-color:#16dfb3;
+;
+  }
+  
+  .pigeon {
+    border: 1px solid black;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 200px;
+    height: 500px;
+    padding: 50px;
+    background-color:#16dfb3;
+  }
+  
+  .teddy {
+    border: 1px solid black;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 200px;
+    height: 500px;
+    padding: 50px;
+    background-color:#16dfb3;
+  }
+
+  .youtube{
+    border: 1px solid black;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 200px;
+    height: 650px;
+    padding: 50px;
+    background-color:#16dfb3;
+  }
+
+  .instagram{
+    border: 1px solid black;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 200px;
+    height: 650px;
+    padding: 50px;
+    background-color:#16dfb3;
+  }
+  .menu{
+    display:flex;
+    justify-content:space-between;
+    background-color: #91d317;
+    padding:15px;
+    font-size:20px;
+    font-family: sans-serif;
+    font-weight: 400;
+    color: #FFFFFF;
+  }
+  body{
+    margin:0px;
+    background-color: #16dfb3;
+  }
